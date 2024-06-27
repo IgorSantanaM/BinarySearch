@@ -9,7 +9,6 @@ This repository contains a simple demonstration of binary search using a C# cons
 - [Usage](#usage)
 - [Example Output](#example-output)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -57,9 +56,3 @@ Contributions are welcome! To contribute:
 5. **Create a Pull Request**.
 
 Please ensure your code adheres to the existing style.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
